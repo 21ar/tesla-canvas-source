@@ -1,0 +1,4 @@
+fastapi==0.119.1
+uvicorn==0.38.0
+httpx==0.28.1
+yt-dlp[default]>=2026.1.1
